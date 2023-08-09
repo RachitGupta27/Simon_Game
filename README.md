@@ -1,2 +1,2 @@
 # Simon_Game
-Simon Game Project using JavaScript and Jquery
+This is a Simon Game project built using JavaScript, Jquery, HTML, CSS
